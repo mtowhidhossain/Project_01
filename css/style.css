@@ -1,0 +1,84 @@
+body{
+	margin: 0;
+}
+
+.wrapper{
+	width: 1200px;
+	margin: auto;
+	overflow: hidden;
+}
+
+.one{
+	width: 33.333%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+
+.blue{
+	height: 100px;
+	background-color: skyblue;
+	padding: 15px;
+	box-shadow: 5px 5px 10px black;
+}
+
+.two{
+	width: 100%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+
+.orange{
+	height: 100px;
+	background-color: orange;
+	padding: 15px;
+	box-shadow: 5px 5px 10px black;
+}
+
+.three{
+	width: 50%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+
+.yellow{
+	height: 100px;
+	background-color: yellow;
+	padding: 15px;
+	box-shadow: 5px 5px 10px black;
+}
+
+.four{
+	width: 60%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+
+.green{
+	height: 100px;
+	background-color: green;
+	padding: 15px;
+	box-shadow: 5px 5px 10px black;
+}
+
+.five{
+	width: 20%;
+	float: left;
+	margin-bottom: 15px;
+	padding: 0 5px;
+	box-sizing: border-box;
+}
+
+.red{
+	height: 100px;
+	background-color: red;
+	padding: 15px;
+	box-shadow: 5px 5px 10px black;
+}
